@@ -1,1 +1,4 @@
 this is just a demo repo for https://github.com/nicferrier/emacs-provisioner-vagrant.
+
+The build.el attached here just uses ELPA to install the creole
+package and then runs ERT tests.
