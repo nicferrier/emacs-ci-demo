@@ -21,6 +21,7 @@
 (package-initialize)
 (package-refresh-contents)
 (package-install 'creole)
+(require 'creole)
 (ert-run-tests-batch-and-exit)
 
 ;; End
